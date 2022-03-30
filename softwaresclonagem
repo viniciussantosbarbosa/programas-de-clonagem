@@ -1,0 +1,28 @@
+# programas-de-clonagem
+instalando e testando programas (softwares) de clonagem para linux/windows.
+
+
+Primeira etapa: instalar os programas de clonagem. 
+
+1-Acronis truelmage (necessita licensa)
+2-AOMEI Backupper v6.5.1 (necessita licensa)
+3-Lazesoft Disk Image & Clone v04.0.0.1
+4-Macrium Reflect PE v7.3.5925
+5-Runtime Driveimage XML  v2.60
+
+segunda etapa: escolha um programa e o HD que você quer clonar, em seguida selecione 
+O HD com armazenamento para fazer sua clonagem. 
+
+exemplo: Lazesoft Disk Image
+
+Você pode ir na aba Drive Clone 
+e selecionar a opção Clone disk. após selecionar escolha o HD que deseja clonar 
+para o novo HD. Escolha a opção copy without resizing partitions e selecione start.
+
+exemplo: Macrium Reflect PE v7.3.5925
+
+Escolha a opção de backup e selecione a opção Clone this disk. Escolha o disco de origem
+que deseja clonar e o novo HD.
+
+
+
